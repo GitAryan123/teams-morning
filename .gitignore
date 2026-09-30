@@ -1,0 +1,6 @@
+node_modules/
+config.json
+token-cache.json
+last-sent.txt
+.env
+*.log

@@ -1,0 +1,5 @@
+{
+  "clientId": "your-azure-app-client-id",
+  "tenantId": "your-azure-ad-tenant-id",
+  "chatId": "19:your-chat-thread-id@thread.v2"
+}

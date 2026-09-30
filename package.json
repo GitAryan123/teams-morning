@@ -1,0 +1,19 @@
+{
+  "name": "teams-morning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "send-teams.js",
+  "scripts": {
+    "start": "node send-teams.js",
+    "send": "node send-teams.js",
+    "get-chats": "node get-chats.js",
+    "test-device-code": "node test-device-code.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@azure/msal-node": "^6.0.1"
+  }
+}
